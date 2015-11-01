@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-  <script   src="js/main.js"></script>   
+  <script  src="js/main.js"></script>   
   <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
@@ -27,11 +27,11 @@
     <tr>
     <td>Name</td>
     <td>Chinghoih Monica Lancaster</td>
-<th><a href="#" title="Chinghoih Lancaster"><img src="images/ching.jpg" height="200" class="img-rounded" alt="Chinghoih Lancaster"></a></th>
+<th><a href="#" title="Chinghoih Lancaster"><img src="images/ching.jpg" height="200" class="img-rounded `" alt="Chinghoih Lancaster"></a></th>
     </tr>
     <tr>
     <td  >Phone:</td>
-    <td> 	07891953841<br/>0161-860-5307</td>
+    <td> 	07891953841</td>
 <td>&nbsp;</td>
     </tr>
      <tr>
