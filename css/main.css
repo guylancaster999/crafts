@@ -2,16 +2,48 @@
 /* CSS Document */
  h1
  {padding-top:0;
- margin-top:0; }
+ margin-top:0; 
+ padding-bottom:0;
+margin-bottom:0;
+ }
  h2
  {padding-bottom:0;
- margin-bottom:0}
- .jumbotron
+ padding-top:0;
+ margin-top:0;
+ margin-bottom:10px}
+ h3
+ {
+	padding-bottom:0;
+	padding-top:10px;
+	margin-top:0;
+	margin-bottom:0;
+ }
+.price
+{text-align:center;
+font-weight:bold;
+font-size:14pt;
+}
+.jumbotron
  {padding:20px;
  margin-top:30px;
- margin-left: 0px;
- 
-	 }
+ margin-left:20px;
+ margin-left:20px;
+}
+.txtCenter
+{
+	text-align	:center;
+}
+.foot
+{
+	text-align	:center;
+	font-weight	:bold;
+	font-size	:12pt;
+	border		:1px solid;
+    border-radius:10px;
+	margin-left	:20px;
+	margin-right:40px;
+	margin-top	:20px;
+}
 div.row > div > div.row {
 				margin-bottom:10px;
 			}

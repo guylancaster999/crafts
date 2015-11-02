@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8"/>
-  <title>North East Indian Crafts - Contact</title>
+  <title>Eastern*Hues - North East Indian Crafts - Contact</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
@@ -14,11 +14,12 @@
 <body>
 <div class="container-fluid">
   <div class="jumbotron">
-    <h1>North East Indian Crafts</h1>
+       <h1>Eastern*Hues</h1><h2>North East Indian Crafts</h2>
   <script  >
     btn("Contact")
   </script>
-     <h2>Contact</h2>
+
+  <h3>Contact</h3>
   </div>
 
 <br/>
