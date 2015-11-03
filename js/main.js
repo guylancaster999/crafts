@@ -12,6 +12,8 @@ function isActive(x,y)
 function btn(x)
 {
 	var ret='';
+	ret+=' <a href="index.php" title="Indian Hand-woven Crafts 2015"><button type="button" class="btn btn-primary '+isActive("Home",x)+'" >Home</button></a>';
+	ret+='&nbsp;';
 	ret+=' <a href="bags2015.php" title="Indian Hand-woven Bags 2015"><button type="button" class="btn btn-primary '+isActive("Bags 2015",x)+'" >Bags 2015</button></a>';
 	ret+='&nbsp;';
 	ret+=' <a href="bags.php" title="Bags 2014"><button type="button" class="btn btn-primary '+isActive("Bags 2014",x)+'" >Bags 2014</button></a>';
@@ -35,10 +37,11 @@ function bag_display(retUrl,pic)
 	ret='<a href="'+retUrl+'" title="Click to return to Handbag Gallery"><img src="images/'+pic+'"  alt="Click to return to Handbag Gallery" class="img-responsive img-thumbnail"></a>';
 	document.write(ret);
 }
+
 function pic_display(pic_small,pic_big,ttl)
 {
 	var ret='';
-    ret='<a href="images/'+pic_big+'" data-toggle="lightbox" data-gallery="multiimages" data-title="'+ttl+'" >'
+    ret='<a href="images/'+pic_big+'" data-toggle="lightbox" data-gallery="multiimages" title="'+ttl+' - click to view full size." data-title="'+ttl+'" >'
     ret+='<img src="images/'+pic_small+'" width="300" class="img-rounded img-thumbnail ">';
     ret+='</a>';
 	document.write(ret);
