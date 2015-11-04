@@ -3,8 +3,8 @@
     <head>
         <meta charset="utf-8"/>
         <title>Eastern*Hues - Bags from North East India</title>
-        <meta name="keywords" content="Eastern*Hues, North East, India, Tote, Bags, Handbags, Manipur, Mizoram, Nagaland, Handmade" />
-        <meta name="description" content="Eastern*Hues - North East Indian Tote Handbags" />
+        <meta name="keywords" content="Eastern*Hues, North East, India, Tote, Bags, Cushions, Handbags, Manipur, Mizoram, Nagaland, Handmade" />
+        <meta name="description" content="Eastern*Hues - North East Indian Tote Handbags + Cushions" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"/>
         <link href="//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.2.2/ekko-lightbox.min.css" rel="stylesheet"/>
@@ -27,12 +27,12 @@
 	<div class="col-sm-11 col-md-11 col-11 col-lg-11 txtbox">
  			   Welcome to Eastern*Hues.
 				<br/><br/>
-			   The cushions and  panels on our bags are hand woven from either silk or cotton in my home village of Churachandpur, Manipur in North Eastern India. 
+			   The <a href="cushions.php">cushions</a> and  panels on our <a href="bags2015.php">bags</a> are hand-woven from either silk or cotton in my home village of Churachandpur, Manipur in North Eastern India. 
 			   Some of the weavers are from my own family. 
 			   The material is usually used for punns &ndash; our version of the sarong. 
 			   Our village has been weaving these particular patterns for so many centuries that no one I know knows exactly how many. 
 			   Each village has its own patterns. 
-			   The fabric is woven by a man or a woman on a <a  title="Loin Looms" href="looms.php">loin loom</a>. </div>
+			   The fabric is woven by a man or a woman working on a <a  title="Loin Looms" href="looms.php">loin loom</a>. </div>
   <div class="row">
 	<div class="col-sm-12 col-md-12 col-12 col-lg-12">
  &nbsp;

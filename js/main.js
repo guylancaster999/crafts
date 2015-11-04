@@ -16,9 +16,9 @@ function btn(x)
 	ret+='&nbsp;';
 	ret+=' <a href="bags2015.php" title="Indian Hand-woven Bags 2015"><button type="button" class="btn btn-primary '+isActive("Bags 2015",x)+'" >Bags 2015</button></a>';
 	ret+='&nbsp;';
-	ret+=' <a href="bags.php" title="Bags 2014"><button type="button" class="btn btn-primary '+isActive("Bags 2014",x)+'" >Bags 2014</button></a>';
+	ret+=' <a href="bags.php" title="Bags 2014"><button type="button" class="btn btn-primary '+isActive("Bags 2014",x)+'">Bags 2014</button></a>';
 	ret+='&nbsp;';
-	ret+='<a href="cushions.php" title="Cushions"><button type="button" class="btn btn-primary '+isActive("Cushions",x)+'" >Cushions</button></a>';
+	ret+=' <a href="cushions.php" title="Cushions"><button type="button" class="btn btn-primary '+isActive("Cushions",x)+'">Cushions</button></a>';
 	ret+='&nbsp;';
 	ret+=' <a href="looms.php" title="Looms"><button type="button"  class="btn btn-primary '+isActive("Looms",x)+'" >Looms</button></a>';
 	ret+='&nbsp;';

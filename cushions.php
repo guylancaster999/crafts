@@ -4,8 +4,8 @@
         <meta charset="utf-8"/>
         <title>Eastern*Hues - North East Indian Crafts - Cushions</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-       <meta name="keywords" content="North East, India, Cushions, Manchester, Mizoram" />
-        <meta name="description" content="North East Indian Custions"/>
+       <meta name="keywords" content="North East, India, hand-made,hand woven, Cushions, Manchester, Mizoram" />
+        <meta name="description" content="North East Indian Hand-Woven Hand-made Cushions"/>
         <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"/>
         <link href="//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.2.2/ekko-lightbox.min.css" rel="stylesheet"/>
         <script src="js/main.js"></script>
