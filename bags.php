@@ -4,29 +4,26 @@
         <meta charset="utf-8"/>
         <title>Eastern*Hues - Bags 2014 from North East Indian</title>
         <meta name="keywords" content="Eastern*Hues, North East, India, Bags, Handbags, Manipur, Mizoram" />
-        <meta name="description" content="Eastern*Hues - North East Indian  Handbags" />
+        <meta name="description" content="Eastern*Hues - North East Indian Handbags" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
         <link href="//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.2.2/ekko-lightbox.min.css" rel="stylesheet">
         <script type="text/javascript" src="js/main.js"></script>
         <link rel="stylesheet" href="css/main.css">
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-       	<link rel="icon" href="favicon.ico" type="image/x-icon" />';
-        
-    </head>
+       	<link rel="icon" href="favicon.ico" type="image/x-icon" />
+</head>
 <body>
 <div class="container-fluid">
   <div class="jumbotron">
      <h1>Eastern*Hues</h1>
 	 <h2>North East Indian Crafts</h2>
-	 <script language="javascript">
+	 <script>
        btn("Bags")
     </script>
     <h3>Tote Bags, Purses and Ruck-sacks</h3>
   </div> <!-- jumbo-->
- </div>
- <div class="container-fluid">
- 	  	  <div class="row">
+  	  <div class="row">
                <div class="col-sm-4 col-md-4 col-4 col-lg-4">
 	                 <script>
 						   pic_display("bag2.jpg","bag2.jpg","Purses #17");
@@ -107,11 +104,9 @@
                             <script>
 						   pic_display("bag8.jpg","bag8.jpg","Handbag #8");
                    			</script>
-               </div>
-			                      <div class="col-sm-4 col-md-4 col-4 col-lg-4">
-                            <script>
-				   			   pic_display("bag_0003.jpg","bag_0003.jpg","Handbag #19");
-                   			</script>
+               </div>			  
+			   <div class="col-sm-4 col-md-4 col-4 col-lg-4">
+                       <script>pic_display("bag_0003.jpg","bag_0003.jpg","Handbag #19");</script>
                    </div>
                 </div>
               <div class="row">
@@ -121,9 +116,7 @@
               </div>
                 <div class="row">
                          <div class="col-md-4 col-4 col-lg-4 col-sm-4 ">
-                            <script>
-				         	   pic_display("bag16.jpg","bag16.jpg","Handbag #10");
-                   		   			</script>
+                            <script>pic_display("bag16.jpg","bag16.jpg","Handbag #10");</script>
                </div>
                 <div class="col-md-4 col-4 col-lg-4 col-sm-4">
                             <script>
@@ -131,18 +124,14 @@
                    			</script>
                </div>
                 <div class="col-md-4 col-4 col-lg-4 col-sm-4 ">
-                            <script>
-				        	   pic_display("bag17.jpg","bag17.jpg","Handbag #12");
-					     	</script>
+                            <script>pic_display("bag17.jpg","bag17.jpg","Handbag #12");</script>
                           </div>
                 </div>
-
               <div class="row">
                      <div class="col-md-4 col-4 col-lg-4 col-sm-4">
                        &nbsp;
                      </div>
               </div>
-
                 <div class="row">
                     <div class="col-md-4 col-4 col-lg-4 col-sm-4 ">
                             <script>
@@ -150,9 +139,7 @@
                    	   			</script>
                </div>
                 <div class="col-md-4 col-4 col-lg-4 col-sm-4 ">
-                            <script>
-						   pic_display("bag15.jpg","bag15.jpg","Handbag #14");
-                   			</script>
+                            <script>pic_display("bag15.jpg","bag15.jpg","Handbag #14");</script>
                </div>
                 <div class="col-md-4 col-4 col-lg-4 col-sm-4">
                             <script>
@@ -160,48 +147,41 @@
 					     	</script>
                           </div>
                 </div>
-
               <div class="row">
                      <div class="col-md-4 col-4 col-lg-4 col-sm-4 ">
                        &nbsp;
                      </div>
               </div>
-
                 <div class="row">
                    <div class="col-md-4 col-4 col-lg-4 col-sm-4 ">
-                                 <script>
-							   pic_display("bag_0023.jpg","bag_0023.jpg","Handbag #20");
-                   			</script>
+                        <script>pic_display("bag_0023.jpg","bag_0023.jpg","Handbag #20");</script>
                    </div>
                 <div class="col-md-4 col-4 col-lg-4 col-sm-4">
-                            <script>
-				        	   pic_display("bag20.jpg","bag20.jpg","Handbag #9");
-					     	</script>
+                            <script>pic_display("bag20.jpg","bag20.jpg","Handbag #9");</script>
                   </div>
 				   <div class="col-md-4 col-4 col-lg-4 col-sm-4">
                             &nbsp;
                      </div>
                 </div><!-- row-->
-  <div class="row">
-        <div class="col-md-4 col-lg-4 col-sm-4 ">
-            &nbsp;
-        </div>
-</div>
-  <div class="row">
-        <div class="col-md-12 col-lg-12 col-sm-12 col-12 txtCenter">
-			<b>All Bags £18 each while stocks last (+postage&amp;packing)</b>
-       </div>
-</div>
- <div class="row">
-                   <div class="col-md-12 col-12 col-lg-12 foot">
+				  <div class="row">
+						<div class="col-md-4 col-lg-4 col-sm-4 ">
+							&nbsp;
+						</div>
+				</div>
+				  <div class="row">
+						<div class="col-md-11 col-lg-11 col-sm-11 col-11 txtCenter">
+							<b>All Bags £18 each while stocks last (+postage&amp;packing)</b>
+					   </div>
+				</div>
+				 <div class="row">
+                   <div class="col-md-11 col-11 col-lg-11 foot">
 					Click on images to view full-sized
 					</div>
-                    </div>
+                  </div>
                 </div>
         <script src="//code.jquery.com/jquery.js"></script>
 		<script src="//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.2.2/ekko-lightbox.min.js"></script>
 		<script type="text/javascript" src="js/jscript-foot.js"></script>
 		<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-
    </body>
 </html>
