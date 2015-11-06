@@ -4,7 +4,12 @@
     <?php hdr("Looms"); ?>
     <body>
     <div class="container-fluid">
-   		<?php ttl("Looms","Looms"); ?> 
+   		<div class="jumbotron">
+			<h1>Eastern*Hues</h1>
+			<h2>North East Indian Crafts</h2>
+			<?php btn("Looms");?>
+			<h3>Hand Looms from Assam, Manipur, Mizoram and Nagaland (North East India)</h3>
+		</div>
 		<div class="row">
 			<div class="col-sm-4 col-4 sol-lg-4 col-md-4">
                 <?php	pic_display("loom1_200.jpg","loom1.jpg","Loom #1");

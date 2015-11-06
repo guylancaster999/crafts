@@ -1,29 +1,10 @@
+<?php require "functions/functions.php";?>
 <!DOCTYPE html>
-<html lang="en">
- <head>
-  <meta charset="utf-8"/>
-  <title>Eastern*Hues - North East Indian Crafts - Contact</title>
-    <meta name="keywords" content="North East, India, Contact, Eastern, Hues, Contact" />
-   <meta name="description" content="Eastern Hues - Contact Monica Chinghoih Lancaster"/>
-   <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"/>
-  <link href="//cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/3.2.2/ekko-lightbox.min.css" rel="stylesheet"/>
-  <script  src="js/main.js"></script>
-  <link rel="stylesheet" href="css/main.css"/>
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-  <link rel="icon" href="favicon.ico" type="image/x-icon" />
- </head>
+ <html lang="en">
+   <?php hdr("Contact");?>
 <body>
 <div class="container-fluid">
-  <div class="jumbotron">
-       <h1>Eastern*Hues</h1>
-	   <h2>North East Indian Crafts</h2>
-	<script  >
-		btn("Contact")
-	</script>
-  <h3>Contact</h3>
-  </div>
+<?php ttl("Contact","Contact");?> 
 <div class="row">
      <div class="col-sm-1 col-1 col-md-1 col-lg-1">
 	   &nbsp;

@@ -1,7 +1,7 @@
 <?php require "functions/functions.php";?>
 <!DOCTYPE html>
  <html lang="en">
-   <?php hdr("Bags, Handbags, Tote"); ?>
+   <?php hdr("Bags, Handbags, Tote");?> 
 <body>
 <div class="container-fluid">
 <?php ttl("Tote Bags, Purses and Ruck-sacks","Bags"); ?> 

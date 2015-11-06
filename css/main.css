@@ -1,18 +1,20 @@
 @charset "utf-8";
 /* CSS Document */
  h1
- {padding-top:0;
- margin-top:0; 
- padding-bottom:0;
-margin-bottom:0;
- }
- h2
- {padding-bottom:0;
- padding-top:0;
- margin-top:0;
- margin-bottom:10px}
- h3
  {
+	 padding-top:0;
+	margin-top:0; 
+	padding-bottom:0;
+	margin-bottom:0;
+}
+h2
+ {
+	 padding-bottom:0;
+	padding-top:0;
+	margin-top:0;
+	margin-bottom:10px}
+h3
+{
 	padding-bottom:0;
 	padding-top:10px;
 	margin-top:0;
@@ -67,7 +69,12 @@ margin-bottom:0;
     padding-right:10px;
     margin-top	:20px;
 }
-.foot
+.footer a
+{
+	color:blue;
+	 
+}
+ .foot
 {
 	text-align	:center;
 	font-weight	:bold;
@@ -76,7 +83,17 @@ margin-bottom:0;
     border-radius:10px;
 	margin-left	:20px;
 	margin-right:40px;
-	margin-top	:20px;
+	margin-top	:10px;
+}
+.top
+{
+	text-align	:center;
+	font-weight	:bold;
+	font-size	:12pt;
+    border-radius:10px;
+	margin-left	:20px;
+	margin-right:40px;
+	margin-top	:10px;
 }
 div.row > div > div.row {
 				margin-bottom:10px;
